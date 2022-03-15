@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Las supernenas
 
 Proyecto (código): 
 
