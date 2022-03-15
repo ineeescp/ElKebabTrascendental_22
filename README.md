@@ -14,7 +14,7 @@ Proyecto (código):
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Er Carlillos
 
 
 ### Historia
